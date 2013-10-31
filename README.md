@@ -42,7 +42,7 @@ Using Random Algorithm
 ```javascript
 var livia = require('livia-algorithm');
 
-livia.random(); // 1536469790810033
+livia.random(); // Random number
 ```
 
 ## Contributing

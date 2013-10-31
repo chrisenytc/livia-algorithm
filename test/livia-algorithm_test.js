@@ -30,7 +30,7 @@ exports['livia'] = {
   'no args': function(test) {
     test.expect(1);
     // tests here
-    test.equal(livia.algorithm(19), 1536469790810033, 'should be equal to 5383562211.');
+    test.equal(livia.algorithm(19), 1536469790810033, 'should be equal to 1536469790810033.');
     test.done();
   },
 };
