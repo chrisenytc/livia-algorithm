@@ -47,7 +47,7 @@ livia.random(); // Random number
 
 ## Contributing
 
-Please submit all issues and pull requests to the [chrisenytc/emyll](http://github.com/chrisenytc/emyll) repository!
+Please submit all issues and pull requests to the [chrisenytc/livia-algorithm](http://github.com/chrisenytc/livia-algorithm) repository!
 
 ## Support
 If you have any problem or suggestion please open an issue [here](https://github.com/chrisenytc/livia-algorithm/issues).
@@ -78,4 +78,5 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ## Release History
 
- * 2013-10-31    v0.1.0   Initial Release.
+* 2013-10-31    v0.1.1   Fixed README.md contribution section.
+* 2013-10-31    v0.1.0   Initial Release.
