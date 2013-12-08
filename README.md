@@ -7,13 +7,13 @@ The Livia algorithm is a complex mathematical where your goal is to find the con
 The Livia algorithm is represented by the expression:
 
 ```
-L = 198 . 23¹⁰   
+L = 199 . 23¹⁰
     ———   ———
      B    27
      ———————
       LIV¹⁴
       ————
-       ∞ 
+       ∞
 ```
 
 ## Getting Started
@@ -78,5 +78,6 @@ OTHER DEALINGS IN THE SOFTWARE.
 
 ## Release History
 
+* 2013-12-08    v0.1.2   Fixed logic error in a constant
 * 2013-10-31    v0.1.1   Fixed README.md contribution section.
 * 2013-10-31    v0.1.0   Initial Release.

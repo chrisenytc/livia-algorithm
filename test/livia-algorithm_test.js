@@ -22,7 +22,7 @@ var livia = require('../lib/livia-algorithm.js');
     test.ifError(value)
 */
 
-exports['livia'] = {
+exports['exports'] = {
   setUp: function(done) {
     // setup here
     done();

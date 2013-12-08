@@ -1,3 +1,7 @@
+v0.1.2:
+  date: 2013-12-08
+  changes:
+    - Fixed error in a constant
 v0.1.1:
   date: 2013-10-31
   changes:
